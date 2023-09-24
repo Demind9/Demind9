@@ -1,3 +1,3 @@
-# Hey there! :grin: 😁
+# Hey there! :grin:
 
-
+### :mag: About me
