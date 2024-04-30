@@ -1,4 +1,4 @@
-# Hey there! :grin:
+# Hello! :grin:
 
 ### :mag: &nbsp; About me
 I'm James Mackall, a recent Cognitive Science and Machine Learning graduate from UC San Diego.  This github is somewhere for me to store and showcase my projects.
